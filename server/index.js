@@ -14,7 +14,7 @@ app.use(cors());
 
 //db connection
 const connectString =
-  "mongodb+srv://sem120242025:abcd1234@postitcluster.gsgf6.mongodb.net/postITDb?retryWrites=true&w=majority&appName=PostITCluster";
+  "mongodb+srv://66J2014:Ree517667@postitcluster.gqbx1.mongodb.net/postTDp?retryWrites=true&w=majority&appName=PostITCluster";
 
 //mongodb+srv://sem120242025:<db_password>@postitcluster.gsgf6.mongodb.net/?retryWrites=true&w=majority&appName=PostITCluster
 //mongodb+srv://sem120242025:<db_password>@postitcluster.gsgf6.mongodb.net/?retryWrites=true&w=majority&appName=PostITCluster
